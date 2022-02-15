@@ -95,10 +95,12 @@
             "karmaConfig": "karma.conf.js",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/data"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "./src/assets/fontawesome-free-5.15.4-web/css/all.css"
             ],
             "scripts": []
           }
